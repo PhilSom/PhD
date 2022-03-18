@@ -5,4 +5,4 @@
 #
 #
 # The numerical code can be found in the numerical-calculation branch.
-# It shows a bifurcation diagram, a poincare section, the standard plots in the time domain of the spherical pendulum and the Lagrange calculatin of the ODEs.
+# It shows Mathematica files to calculate a bifurcation diagram, a poincare section, the standard plots in the time domain of the spherical pendulum and the Lagrange calculatin of the ODEs.
